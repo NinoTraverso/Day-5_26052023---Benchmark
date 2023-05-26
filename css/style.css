@@ -8,7 +8,7 @@ body {
   margin-bottom: 0;
   text-align: center;
 }
-
+/* --------------------------------------HOME ----------------------*/
 #sezionehome {
   width: 100%;
   height: 100px;
@@ -22,7 +22,7 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
-
+/* --------------------------------------PRIMASEZIONE ----------------------*/
 #primasezione {
   padding-bottom: 0;
   margin-top: 0;
@@ -35,30 +35,32 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
-
+/* --------------------------------------SECONDA SEZIONE ----------------------*/
 #secondasezione > h2 {
   color: #2e98ca;
 }
-
+/* --------------------------------------TERZA SEZIONE ----------------------*/
 #terzasezione > img {
   width: 450px;
   margin-left: auto;
   margin-right: auto;
   border-radius: 50%;
 }
-
+/* --------------------------------------QUARTA SEZIONE ----------------------*/
 #quartasezione > h2 {
   color: #2e98ca;
 }
-
+/* --------------------------------------QUINTA SEZIONE ----------------------*/
 #quintasezione {
   background-color: #e63716;
+  margin-top: 15%;
+  margin-bottom: 8%;
 }
 
 .testo {
   color: white;
 }
-
+/* --------------------------------------SESTA SEZIONE ----------------------*/
 #sestasezione {
   padding-top: 5%;
   padding-bottom: 5%;
@@ -86,7 +88,7 @@ body {
 .textbox1 h2 {
   color: #2e98ca;
 }
-
+/* --------------------------------------SETTIMA SEZIONE ----------------------*/
 #settimasezione {
   padding-top: 5%;
   padding-bottom: 5%;
@@ -114,7 +116,35 @@ body {
 .textbox2 h2 {
   color: #2e98ca;
 }
+/* --------------------------------------OTTAVA SEZIONE ----------------------*/
+#ottavasezione {
+  padding-top: 5%;
+  padding-bottom: 18%;
+}
+.imgtextbox3 {
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-color: #ececec;
+  
+}
+.box3 > img{
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
 
+.textbox3 {
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.textbox3 h2 {
+  color: #2e98ca;
+}
+/* --------------------------------------FOOTER SEZIONE ----------------------*/
 footer {
   width: 100%;
   height: 100%;
