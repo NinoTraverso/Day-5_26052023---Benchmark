@@ -21,7 +21,6 @@ body {
   width: 30%;
   margin-left: auto;
   margin-right: auto;
-  
 }
 
 #primasezione {
@@ -35,6 +34,85 @@ body {
   width: 450px;
   margin-left: auto;
   margin-right: auto;
+}
+
+#secondasezione > h2 {
+  color: #2e98ca;
+}
+
+#terzasezione > img {
+  width: 450px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+
+#quartasezione > h2 {
+  color: #2e98ca;
+}
+
+#quintasezione {
+  background-color: #e63716;
+}
+
+.testo {
+  color: white;
+}
+
+#sestasezione {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.imgtextbox1 {
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-color: #ececec;
+  
+}
+.box1 > img{
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.textbox1 {
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.textbox1 h2 {
+  color: #2e98ca;
+}
+
+#settimasezione {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+.imgtextbox2 {
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-color: #ececec;
+  
+}
+.box2 > img{
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.textbox2 {
+  width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.textbox2 h2 {
+  color: #2e98ca;
 }
 
 footer {
