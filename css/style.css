@@ -4,6 +4,7 @@ html {
   width: 450px;
   margin-left: auto;
   margin-right: auto;
+  line-height: 0;
 }
 /* ---------------------------------------------------------- HTML settings -------------------------------------------*/
 h1 {
@@ -62,7 +63,6 @@ body {
   margin-right: auto;
   padding-top: 20px;
   padding-bottom: 20px;
-
 }
 /* ---------------------------------------------------------- PRIMA SEZIONE -------------------------------------------*/
 #primasezione {
@@ -87,6 +87,26 @@ body {
   margin-right: auto;
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+.primasezionelink {
+  width: 180px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  height: 60px;
+  background-color: #e63716;
+  border-radius: 10px;
+  opacity: 90%;
+}
+
+.primasezionelink a {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  text-decoration: none;
 }
 
 .textprimasezione > h1 {
